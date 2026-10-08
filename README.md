@@ -61,4 +61,3 @@ A simple and elegant note-taking app to organize your thoughts, manage tasks, an
 <img width="1040" height="922" alt="Screenshot 2026-02-03 000859" src="https://github.com/user-attachments/assets/c1baa2e6-25ce-4183-ae4e-142fd2442d9b" />
 <img width="1051" height="922" alt="Screenshot 2026-02-03 000300" src="https://github.com/user-attachments/assets/f79b2af5-bc94-4def-9183-65700075d24d" />
 <img width="1051" height="922" alt="Screenshot 2026-02-03 000248" src="https://github.com/user-attachments/assets/d4e03166-81b7-4a82-bdbd-e4adf48e4939" />
-
